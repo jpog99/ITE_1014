@@ -15,7 +15,7 @@ while numQues < 3:
      for i in range(1,4):
          time.sleep(1)
          print (i, end = ',', flush=True)
-         
+     print(':',end='')
          
          
          

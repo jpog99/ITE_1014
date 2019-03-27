@@ -1,5 +1,5 @@
 import random
-from turtledemo.lindenmayer import draw
+
 
 def com():
     
